@@ -16,4 +16,4 @@ You can also make a colorful node bomb with this sand!
 ![bonus320](https://github.com/bashuser1/colored_sand/assets/94144172/89b9abb7-6108-470a-adf2-3135184418dc)
 
 
-Note: The licence (see LICENCE.txt) refers to all files except for the media inside the textures folder. The sand texture (default_sand.png), which is provided by dependency, has been used as a starting point to create the colored variants and is copyright of their respective authors. Dependencies may be subject to different licensing terms.
+Note: The licence (see LICENCE.txt) refers to all files except for the media inside the textures folder. The sand texture (default_sand.png from Minetest Game), which is provided by dependency, has been used as a starting point to create the colored variants and is copyright of their respective authors. Dependencies may be subject to different licensing terms.
