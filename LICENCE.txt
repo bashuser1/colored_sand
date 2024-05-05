@@ -1,3 +1,5 @@
+License of source code
+----------------------
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
@@ -22,3 +24,11 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <https://unlicense.org>
+
+
+Licenses of media (images in "textures" folder)
+-----------------------------------------------
+The original default_sand.png was used to produce the textures here.
+Author: VanessaE
+Source: https://github.com/minetest/minetest_game/blob/master/mods/default/textures/default_sand.png
+License: CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0/)
