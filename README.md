@@ -14,6 +14,3 @@ This mod adds decorative dyed variants for the default sand into the game. Color
 You can also make a colorful node bomb with this sand!
 
 ![bonus320](https://github.com/bashuser1/colored_sand/assets/94144172/89b9abb7-6108-470a-adf2-3135184418dc)
-
-
-Note: The sand texture (default_sand.png from Minetest Game) has been used as a starting point to create the colored variants.
